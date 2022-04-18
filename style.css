@@ -13,7 +13,7 @@ body {
   }
   
   header {
-    background: #03a9f4;
+    background: red;
     border-bottom: #000000 3px solid;
     height: 120px;
     width: 100%;
@@ -23,7 +23,7 @@ body {
   
   .main-header {
     text-align: center;
-    background-color: #03a9f4;
+    background-color: red;
     height: 100px;
     width: 100%;
     margin: 0;
@@ -43,7 +43,7 @@ body {
   
   .results {
     border-radius: 15px 50px;
-    background: #345fe4;
+    background: red;
     padding: 20px;
     width: 200px;
     height: 150px;
@@ -67,7 +67,7 @@ body {
   .loader {
     border: 16px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 16px solid #3498db;
+    border-top: 16px solid red;
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
